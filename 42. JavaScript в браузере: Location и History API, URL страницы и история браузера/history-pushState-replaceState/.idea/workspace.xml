@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d04457c9-93b0-47c8-81b4-688be5080ad2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/js-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/final/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/final/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/final/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../41. Браузерные хранилища данных: localStorage, sessionStorage, cookie, IndexedDB. Смена темы на сайте./theme-switcher/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/.idea/catalog-filter-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catalog-filter-example/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history go/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history go/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history go/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history go/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history go/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/history-pushState-replaceState.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../history/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href-changing/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href-changing/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href-changing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href-changing/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href-changing/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../window.location/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../window.location/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../window.location/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2no0O7jILxfPTg0kViqrXw3A8YD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Applications/Frontend/Projects/js-course/42. JavaScript в браузере: Location и History API, URL страницы и история браузера/history-pushState-replaceState&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ssh.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d04457c9-93b0-47c8-81b4-688be5080ad2" name="Changes" comment="" />
+      <created>1729624086953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729624086953</updated>
+      <workItem from="1729624088034" duration="2078000" />
+      <workItem from="1730032758622" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

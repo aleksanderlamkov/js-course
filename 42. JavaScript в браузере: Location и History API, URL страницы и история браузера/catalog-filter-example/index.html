@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./script.js" defer></script>
+  <title>Главная</title>
+</head>
+<body style="background-color: aquamarine">
+  <form class="filter">
+    <p>
+      <label for="query">Поиск по имени товара:</label>
+      <input id="query" name="query" placeholder="Диван..." />
+    </p>
+    <p>
+      <label for="min-price">Минимальная цена:</label>
+      <input id="min-price" name="min-price" value="0" type="number" />
+    </p>
+    <p>
+      <label for="max-price">Максимальная цена:</label>
+      <input id="max-price" name="max-price" value="10000" type="number" />
+    </p>
+    <button type="submit">Найти</button>
+  </form>
+</body>
+</html>

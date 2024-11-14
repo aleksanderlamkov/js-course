@@ -1,0 +1,11 @@
+@import 'https://unpkg.com/@a1rth/css-normalize@1.1.3/index.css';
+
+body {
+  padding: 1rem;
+  font-family: 'Rubik', sans-serif;
+}
+
+a,
+:visited {
+  color: blue;
+}
